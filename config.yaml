@@ -1,0 +1,8 @@
+filter:
+  # List of channel display names to exclude from the output
+  exclude_channels:
+    - "SPAM"
+    - "TEST"
+    - "AD"
+    - "Test Channel"
+    - "Infomaniak Promo"
