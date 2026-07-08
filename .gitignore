@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Generated files
+guide_filtered.xml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
